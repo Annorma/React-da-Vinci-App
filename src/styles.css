@@ -1,0 +1,11 @@
+.linkto {
+  text-decoration: none;
+  padding-right: 0.5rem;
+  padding-top: 0.5rem;
+  color: gray;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.linkto:hover {
+  color: lightgray;
+}
